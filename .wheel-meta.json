@@ -1,0 +1,22 @@
+{
+  "wheel_id": 604,
+  "structure": "umbrella",
+  "slug": "rollerdoorsbrisbane-108",
+  "project": "roller-door-repairs-brisbane-planning-guide-2956e0ac6382eda9558",
+  "parent_t1_ref": "rollerdoorsbrisbane-152",
+  "node_role": "feeder",
+  "money_target": "rollerdoorsbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane planning guide",
+  "intended_url": "https://sitesau.github.io/rollerdoorsbrisbane-108/",
+  "tier": "T2",
+  "writeback_nonce": "c26c2bcf3d26decb",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roller-door-repairs-brisbane-faq-7ec55e389c2f66dfa0047c9deefe20/",
+      "anchor": "roller door repairs brisbane faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
